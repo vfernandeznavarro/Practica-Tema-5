@@ -16,3 +16,8 @@
   </Shape>
  </Scene>
 </X3D>
+<Appearance>
+    <Material diffuseColor="1 1 1"/>
+    <ImageTexture url="https://raw.githubusercontent.com/vfernandeznavarro/Practica-Tema-5/main/the-map-of-the-world-tablet_tex.png"/>
+</Appearance>
+
